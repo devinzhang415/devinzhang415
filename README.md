@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3>Funny seeing you here</h3>
+<h1>Hey, I'm Devin<img src="https://github.com/daddyjokes/daddyjokes/hi.gif" height="32" /></h1>
 
 <!--
 **daddyjokes/daddyjokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
