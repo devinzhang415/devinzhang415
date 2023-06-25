@@ -16,16 +16,26 @@
 
 <details>
 <summary>Projects</summary>
-<p align="center">
-	#### Tools
-	Menu Editor, sTrends, Update Tools
-	#### ML
-	Captioner
-	#### Chess Computing
-	not-carlsen, not-magnus
-	#### Apps
-	Soundcheck, Broke Besties, 
-	#### Games
-	Battles, EKANS, Pacman
+<p>
+	<p>
+		<h1>Tools</h1>
+		Menu Editor, sTrends, Update Tools
+	</p>
+	<p>
+		<h1>ML</h1>
+		Captioner
+	</p>
+	<p>
+		<h1>Chess Computing</h1>
+		not-carlsen, not-magnus
+	</p>
+	<p>
+		<h1>Apps</h1>
+		Soundcheck, Broke Besties
+	</p>
+	<p>
+		<h1>Games</h1>
+		Battles, EKANS, Pacman
+	</p>
 </p>
 </details>
