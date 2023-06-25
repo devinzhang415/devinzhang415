@@ -13,29 +13,3 @@
 ### Libraries
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/daddyjokes)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/daddyjokes)
-
-<details>
-<summary>Projects</summary>
-<p>
-	<p>
-		<h1>Tools</h1>
-		Menu Editor, sTrends, Update Tools
-	</p>
-	<p>
-		<h1>ML</h1>
-		Captioner
-	</p>
-	<p>
-		<h1>Chess Computing</h1>
-		not-carlsen, not-magnus
-	</p>
-	<p>
-		<h1>Apps</h1>
-		Soundcheck, Broke Besties
-	</p>
-	<p>
-		<h1>Games</h1>
-		Battles, EKANS, Pacman
-	</p>
-</p>
-</details>
