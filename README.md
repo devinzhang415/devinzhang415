@@ -1,4 +1,4 @@
-<h1>Hey, I'm Devin! <img src="https://github.com/daddyjokes/daddyjokes/blob/main/imgs/hi.gif" height="32" /></h1>
+<h1 align="center">Hey, I'm Devin! <img src="https://github.com/daddyjokes/daddyjokes/blob/main/imgs/hi.gif" height="32" /></h1>
 
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/daddyjokes)
@@ -13,3 +13,12 @@
 ### Libraries
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/daddyjokes)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/daddyjokes)
+
+<details>
+<summary>Projects</summary>
+#### Tools
+#### ML
+#### Chess Computing
+#### Apps
+#### Games
+</details>
