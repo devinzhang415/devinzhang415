@@ -17,8 +17,13 @@
 <details>
 <summary>Projects</summary>
 #### Tools
+Menu Editor, sTrends, Update Tools
 #### ML
+Captioner
 #### Chess Computing
+Not-Carlsen, Not-Magnus
 #### Apps
+Soundcheck, Broke Besties, 
 #### Games
+Battles, EKANS, Pacman
 </details>
